@@ -1,0 +1,30 @@
+body{
+    background-color:#015138;
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    
+}
+h1{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+h2,h3{
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: hsl(199, 75%, 79%);
+}
+p{
+    line-height: 2em;
+}
+img{
+    border:5px;
+    padding: 10px;
+    margin: 20px;
+    border-top-right-radius: 30px;
+}
+ul{
+    display: inline-block;
+    margin-left: 50px;
+}
